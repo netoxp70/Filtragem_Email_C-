@@ -1,0 +1,16 @@
+c:\temp\ReadingMails\ReadingMails\bin\Debug\ReadingMails.exe.config
+c:\temp\ReadingMails\ReadingMails\bin\Debug\ReadingMails.exe
+c:\temp\ReadingMails\ReadingMails\bin\Debug\ReadingMails.pdb
+c:\temp\ReadingMails\ReadingMails\bin\Debug\OpenPop.dll
+c:\temp\ReadingMails\ReadingMails\obj\Debug\ReadingMails.csprojResolveAssemblyReference.cache
+c:\temp\ReadingMails\ReadingMails\obj\Debug\ReadingMails.exe
+c:\temp\ReadingMails\ReadingMails\obj\Debug\ReadingMails.pdb
+C:\Users\milton.silva\Documents\ProjetosGatec\ReadingMails\ReadingMails\bin\Debug\ReadingMails.exe.config
+C:\Users\milton.silva\Documents\ProjetosGatec\ReadingMails\ReadingMails\bin\Debug\ReadingMails.exe
+C:\Users\milton.silva\Documents\ProjetosGatec\ReadingMails\ReadingMails\bin\Debug\ReadingMails.pdb
+C:\Users\milton.silva\Documents\ProjetosGatec\ReadingMails\ReadingMails\bin\Debug\OpenPop.dll
+C:\Users\milton.silva\Documents\ProjetosGatec\ReadingMails\ReadingMails\obj\Debug\ReadingMails.csprojAssemblyReference.cache
+C:\Users\milton.silva\Documents\ProjetosGatec\ReadingMails\ReadingMails\obj\Debug\ReadingMails.csproj.CoreCompileInputs.cache
+C:\Users\milton.silva\Documents\ProjetosGatec\ReadingMails\ReadingMails\obj\Debug\ReadingMails.csproj.CopyComplete
+C:\Users\milton.silva\Documents\ProjetosGatec\ReadingMails\ReadingMails\obj\Debug\ReadingMails.exe
+C:\Users\milton.silva\Documents\ProjetosGatec\ReadingMails\ReadingMails\obj\Debug\ReadingMails.pdb
